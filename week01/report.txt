@@ -1,0 +1,1 @@
+Tugas minggu ini mengajarkan bagaimana penggunaan PuTTY dan github serta command yang dapat digunakan
