@@ -1,0 +1,1 @@
+Tugas minggu lalu adalah membuat dan mempersiapkan account yang dibutuhkan untuk kegiatan lab OS. Seperti membuat account github, dan mendownload PuTTY.
