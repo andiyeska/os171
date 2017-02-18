@@ -20,3 +20,4 @@ drwxr-xr-x  2 andi.yeskafauzan StafCS 4096 Feb 18 10:38 week09
 drwxr-xr-x  2 andi.yeskafauzan StafCS 4096 Feb 18 10:38 week10
 drwxr-xr-x  2 andi.yeskafauzan StafCS 4096 Feb 18 10:42 xtra
 /home/fasilkom/mahasiswa/a/andi.yeskafauzan/os171/week01
+Today is 18 Feb 2017 at 11:21:41
